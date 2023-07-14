@@ -1,7 +1,7 @@
 oiii! Eu sou a Queylla Vitória 
 
-- Hoje Trabalho como Help Desk
-- Estudando Front-End
+- Hoje Trabalho como Full-Dtack
+- Estudando Flutterfow
 - Pronome: ela/dela
 
 <div align="center">
