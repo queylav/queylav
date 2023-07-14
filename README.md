@@ -1,6 +1,6 @@
 oiii! Eu sou a Queylla Vitória 
 
-- Hoje Trabalho como Full-Dtack
+- Hoje Trabalho como Full-Stack
 - Estudando Flutterfow
 - Pronome: ela/dela
 
