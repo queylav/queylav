@@ -1,7 +1,7 @@
 oiii! Eu sou a Queylla Vitória 
 
 - Hoje Trabalho como Full-Stack
-- Estudando Flutterfow
+- Estudando Mobile IOS com swift
 - Pronome: ela/dela
 
 <div align="center">
